@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\2095f79144769afa5d5c76a4e66be7c0\design-23.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\fa1f2605c86b1af1a048c2cd97512538\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d96fdf19e6dc3f48a62a9a96d28cb466\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\e4a8182bf213ec7e4da1d86f73f090ef\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4a3812524aa6994ae2d894f41b551f7f\recyclerview-v7-23.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+	package
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:19:11-59
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:1-39:12
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:21:5-37:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\2095f79144769afa5d5c76a4e66be7c0\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\2095f79144769afa5d5c76a4e66be7c0\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\fa1f2605c86b1af1a048c2cd97512538\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\fa1f2605c86b1af1a048c2cd97512538\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d96fdf19e6dc3f48a62a9a96d28cb466\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d96fdf19e6dc3f48a62a9a96d28cb466\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\e4a8182bf213ec7e4da1d86f73f090ef\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\e4a8182bf213ec7e4da1d86f73f090ef\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:26:9-40
+activity#lk.ac.mrt.cse.dbs.simpleexpensemanager.ui.MainActivity
+ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:28:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\2095f79144769afa5d5c76a4e66be7c0\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\2095f79144769afa5d5c76a4e66be7c0\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\fa1f2605c86b1af1a048c2cd97512538\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\fa1f2605c86b1af1a048c2cd97512538\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d96fdf19e6dc3f48a62a9a96d28cb466\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\d96fdf19e6dc3f48a62a9a96d28cb466\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\e4a8182bf213ec7e4da1d86f73f090ef\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\e4a8182bf213ec7e4da1d86f73f090ef\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4a3812524aa6994ae2d894f41b551f7f\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\4a3812524aa6994ae2d894f41b551f7f\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\0b3b3a4719ee504265b601c9a4df68a1\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\fa1f2605c86b1af1a048c2cd97512538\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Semester 4\Database Systems\Week 10\Project\app\src\main\AndroidManifest.xml

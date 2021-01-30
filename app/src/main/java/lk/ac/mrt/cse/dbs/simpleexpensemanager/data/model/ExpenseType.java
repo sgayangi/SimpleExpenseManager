@@ -16,9 +16,25 @@
 
 package lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model;
 
+import android.support.annotation.NonNull;
+
 /**
  * This ENUM holds the types of different expenditures.
  */
 public enum ExpenseType {
-    EXPENSE, INCOME
+    EXPENSE{
+        @NonNull
+        @Override
+        public String toString() {
+            return "Expense";
+        }
+    }
+
+    , INCOME{
+        @NonNull
+        @Override
+        public String toString() {
+            return "Income";
+        }
+    }
 }

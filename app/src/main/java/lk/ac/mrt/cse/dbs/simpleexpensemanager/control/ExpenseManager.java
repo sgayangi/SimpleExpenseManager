@@ -98,6 +98,7 @@ public abstract class ExpenseManager implements Serializable {
      * @return
      */
     public AccountDAO getAccountsDAO() {
+
         return accountsHolder;
     }
 
@@ -107,6 +108,7 @@ public abstract class ExpenseManager implements Serializable {
      * @param accountDAO
      */
     public void setAccountsDAO(AccountDAO accountDAO) {
+
         this.accountsHolder = accountDAO;
     }
 
@@ -116,6 +118,7 @@ public abstract class ExpenseManager implements Serializable {
      * @return
      */
     public TransactionDAO getTransactionsDAO() {
+
         return transactionsHolder;
     }
 

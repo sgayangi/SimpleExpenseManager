@@ -22,7 +22,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Transaction;
 
 public class DatabaseHelper  extends SQLiteOpenHelper {
 
-    public static final String DATABASE_NAME = "expense_manager.db";
+    public static final String DATABASE_NAME = "180587d.db";
     public static final String ACCOUNTS_TABLE = "accounts";
     public static final String TRANSACTIONS_TABLE = "transactions";
     public static SQLiteDatabase db;

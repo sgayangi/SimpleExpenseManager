@@ -14,6 +14,8 @@
  *
  */
 
+// https://github.com/sgayangi/SimpleExpenseManager.git
+
 package lk.ac.mrt.cse.dbs.simpleexpensemanager.ui;
 
 import android.os.Bundle;
